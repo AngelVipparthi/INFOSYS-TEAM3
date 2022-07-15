@@ -58,7 +58,7 @@ function yes()
                 function validate5(){
 
               document.getElementById("kkk").style.display="none";
-              document.getElementById("a").style.backgroundColor="white";
+              document.getElementById("r").style.backgroundColor="white";
               document.getElementById("b").style.backgroundColor="violet";
              }
              function validate6(){
