@@ -1,12 +1,4 @@
 
-.progress{
-					background-color: #ccc;
-				    border-radius: 2px;
-				    max-width: 200px;
-				    min-width: 160px;
-				    margin-left: 5px;
-				    height: 4px;
-			}
 button{
             border-radius: 20px;
             width:75px;
@@ -48,8 +40,7 @@ button{
             .head{
                 border-bottom: 2px solid black;
             }
-            .th{
-            }
+            
             button{
                 border-radius: 20px;
                 width:75px;
